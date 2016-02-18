@@ -1,3 +1,9 @@
+## CASP Target: T0651
+http://www.predictioncenter.org/casp10/target.cgi?id=47&view=all
+
+## Solved Structure PDB 4F67
+http://www.rcsb.org/pdb/explore/explore.do?pdbId=4f67
+
 ## HMMer
 http://www.ebi.ac.uk/Tools/hmmer
 
@@ -23,10 +29,7 @@ http://proteinmodel.org/AS2TS/LGA/lga.html
 Make sure to read http://proteinmodel.org/AS2TS/LGA/lga_format.html
 You should think about including the following options (please read the description):
 -3
--aa1, -aa2 
+-aa1, -aa2
 -ch1, -ch2
 
 Be very careful, this program assumes the alignment is known (it only makes a superposition). This means there may be NO differences in sequence between your two sets of amino acids you specify for each of the files you want to compare!
-
-
-
