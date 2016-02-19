@@ -1,0 +1,49 @@
+########################################
+# Program: needle
+# Rundate: Fri 19 Feb 2016 14:57:22
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20160219-145721-0615-94735645-oy.asequence
+#    -bsequence emboss_needle-I20160219-145721-0615-94735645-oy.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: EMBOSS_001
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 100
+# Identity:      19/100 (19.0%)
+# Similarity:    26/100 (26.0%)
+# Gaps:          56/100 (56.0%)
+# Score: 84.5
+# 
+#
+#=======================================
+
+EMBOSS_001         1 MGHHHHHHSHMVKDIIIASF---YKFIPLNDFRSLREPI--LTKMHEIGI     45
+                     |||||||||||..::.|...   .|||.|.:.....:|:  ...:.:|| 
+EMBOSS_001         1 MGHHHHHHSHMTGNVCIEEIDVDGKFIRLKNTSEQDQPMGGWEMIRKIG-     49
+
+EMBOSS_001        46 KGTIILAHEGVNGGFAGNREQMNVFYDYLRSDSRFADLHFKETYDNKNPF     95
+                                                                       
+EMBOSS_001        50 --------------------------------------------------     49
+
+
+#---------------------------------------
+#---------------------------------------
