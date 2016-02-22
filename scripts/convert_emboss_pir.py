@@ -32,13 +32,16 @@ def parse_emboss(emboss_file, template_position):
     for line in f:
         line = line.strip("\r\n") # remove breakline at end of line
 
-        if line.startswith("#") or line.startswith(" "):
+        if line.startswith("#") or line.startswith(" ") or line == "":
             continue
 
         number = (number + 1) % 2 # update sequence position
         sequence = line[21:71] # get sequence
         sequence = ''.join([i for i in sequence if not i.isdigit()]) # remove numeric
         sequence = sequence.strip() # remove whichspaces
+
+        print line
+        print number, sequence
 
         if (number + 1) == template_position:
             emboss["structure"] += sequence
