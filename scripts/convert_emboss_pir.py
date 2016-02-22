@@ -45,9 +45,6 @@ def parse_emboss(emboss_file, template_position):
         else:
             emboss["sequence"] += sequence
 
-    emboss["structure"] += "*"
-    emboss["sequence"] += "*"
-
     f.close()
     return emboss
 
@@ -66,10 +63,11 @@ def convert_to_pir(emboss, sequence_name, template_name,
 
     pir = ">P1;%s\n" %sequence_name
     pir += "sequence:%s: . : . : . : : : : :\n" %sequence_name
-    pir += emboss["sequence"] + "\n\n"
+    pir += emboss["sequence"] + "*\n\n"
     pir += ">P1;%s\n" %template_name
     pir += "structure:%s.pdb: %s  : %s : %s  :%s  : : : :\n" %(template_name, template_first, template_chain, template_last, template_chain)
-    pir += emboss["structure"]
+    pir += emboss["structure"] + "*"
+
     return pir
 
 def parse_arguments():
