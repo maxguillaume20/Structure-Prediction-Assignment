@@ -40,9 +40,6 @@ def parse_emboss(emboss_file, template_position):
         sequence = ''.join([i for i in sequence if not i.isdigit()]) # remove numeric
         sequence = sequence.strip() # remove whichspaces
 
-        print line
-        print number, sequence
-
         if (number + 1) == template_position:
             emboss["structure"] += sequence
         else:
