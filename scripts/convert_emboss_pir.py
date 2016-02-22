@@ -32,7 +32,7 @@ def parse_emboss(emboss_file, template_position):
     for line in f:
         line = line.strip("\r\n") # remove breakline at end of line
 
-        if not line.startswith("EMBOSS"):
+        if line.startswith("#") or line.startswith(" "):
             continue
 
         number = (number + 1) % 2 # update sequence position
