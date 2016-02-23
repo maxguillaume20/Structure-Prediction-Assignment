@@ -34,6 +34,8 @@ def retrieve_sequence(pdb_file):
             if residue_nbr != last_residue_nbr:
                 seq += line[17:20] + " "
                 last_residue_nbr = residue_nbr
+        if "END" in line:
+            break
     f.close()
     return seq
 
