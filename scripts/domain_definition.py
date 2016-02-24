@@ -16,7 +16,7 @@ d3 = seq[(d3_i-o):(d3_j-o+1)]
 
 print ">T0651|D1|%s-%s" %(d1_i, d1_j)
 print d1
-print "\n>T0651|D2|%s-%s" %(d2_i, d3_j)
+print "\n>T0651|D2|%s-%s" %(d2_i, d2_j)
 print d2
 print "\n>T0651|D3|%s-%s" %(d3_i, d3_j)
 print d3
