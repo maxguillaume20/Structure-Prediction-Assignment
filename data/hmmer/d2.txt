@@ -1,0 +1,72 @@
+phmmer results for job 492F3FDE-DB15-11E5-B192-4775F69F8818.1:
+
+Target Num-hits Bias Bit-Score E-value Tax-Id Species Description
+================================================================================================================
+4f67_A 1	0.5	253.0	5.3e-75	272624	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	UPF0176 protein lpg2838
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+122	232	122	232	1	111	5.4e-79
+QUERY  tylspeewhqfiqdpnvilldtrndyeyelgtfknainpdienfrefpdyvqrnlidkkdkkiamfctggircekttaymkelgfehvyqlhdgilnylesipeseslweg
+MATCH  tylspeewhqfiqdpnvilldtrndyeyelgtfknainpdienfrefpdyvqrnlidkkdkkiamfctggircekttaymkelgfehvyqlhdgilnylesipeseslweg
+PP     8*************************************************************************************************************8
+TARGET TYLSPEEWHQFIQDPNVILLDTRNDYEYELGTFKNAINPDIENFREFPDYVQRNLIDKKDKKIAMFCTGGIRCEKTTAYMKELGFEHVYQLHDGILNYLESIPESESLWEG
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+3gk5_A 1	0.0	24.6	0.00037	273116	Thermoplasma volcanium GSS1	Uncharacterized rhodanese-related protein TVG
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+8	99	19	94	18	100	2.8e-08
+QUERY  illdtrndyeyelgtfknainpdienfrefpdyvqrnlidkkdkkiamfctggircekttaymkelgfehvyqlhdgilnyle
+MATCH   +ld r  +e  +g++ n+in  i  +re         i ++dkk a++c  g r      ++ +lg+  +  ++ gi +++e
+PP     579************************99543......44579************************95.6789999999987
+TARGET TVLDVREPFELIFGSIANSINIPISELREKWK------ILERDKKYAVICAHGNRSAAAVEFLSQLGLN-IVDVEGGIQSWIE
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+1qxn_A 1	0.0	24.2	0.0005	844	Wolinella succinogenes	sulfide dehydrogenase
+----------------------------------------------------------------------------------------------------------------
+Target-env-start	Target-env-end	Target-ali-start	Target-ali-end	Query-start	Query-end	E-value(cond.)
+----------------------------------------------------------------------------------------------------------------
+23	131	25	123	3	101	3.8e-08
+QUERY  lspeewhqfiqd.pnvilldtrndyeyelgtfknainpdienfrefpdyvqrnlidkk....dkkiamfctggircekttaymkelgfehvyqlhdgilnyles
+MATCH  lsp++ ++++q+ p++ l+d r+  e      k    pd++n++ +     + l+ k     +k + +fc  + r+      ++e gf+ +y  + g+  +le 
+PP     89999999998549********87664.....455689****99987766666666543322799********************************9999974
+TARGET LSPKDAYKLLQEnPDITLIDVRDPDEL-----KAMGKPDVKNYKHMSRGKLEPLLAKSgldpEKPVVVFCKTAARAALAGKTLREYGFKTIYNSEGGMDKWLEE
+----------------------------------------------------------------------------------------------------------------
+================================================================================================================
+
+
+
+Search Details
+==============
+Date Started: 2016-02-24 16:40:17
+Cmd: phmmer -E 1 --domE 1 --incE 0.01 --incdomE 0.03 --mx BLOSUM62 --pextend 0.4 --popen 0.02 --seqdb pdb 
+Database: pdb,  version 2016-02-17,  downloaded on 2016-02-17
+Query:  >Query
+ TYLSPEEWHQFIQDPNVILLDTRNDYEYELGTFKNAINPDIENFREFP
+ DYVQRNLIDKKDKKIAMFCTGGIRCEKTTAYMKELGFEHVYQLHDGIL
+ NYLESIPESESLWEG
+
+Stats
+=====
+nhits:16
+elapsed:0.09
+Z:285833
+Z_setby:0
+n_past_msv:2296
+unpacked:16
+user:0
+domZ_setby:0
+nseqs:285833
+n_past_bias:1961
+sys:0
+n_past_fwd:26
+nmodels:1
+nincluded:3
+n_past_vit:163
+nreported:16
+domZ:16
+
