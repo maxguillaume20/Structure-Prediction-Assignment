@@ -1,5 +1,5 @@
 >P1;d2_hmmer
-sequence:D2_3gk5: . : . : . : : : : :
+sequence:d2_hmmer: . : . : . : : : : :
 TYLSPEEWHQFIQD----------------PNVILLDTRNDYEYELGTFKNAINPDIENFREFPDYVQRNLIDKK----DKKIAMFCTGGIRCEKTTAYMKELGFEHVYQLHDGILNYLESIPESESLWEG--------*
 
 >P1;3gk5
