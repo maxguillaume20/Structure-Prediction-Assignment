@@ -1,0 +1,23 @@
+Literature Summary
+
+Articles are tagged in color-order: ‘roygbv’ which corresponds to very helpful/interesting (‘r’) to less helpful (‘v’). An article without a tag means I haven’t finished reading it yet. Please change these tags/summaries as you see fit.
+
+ARTICLES:
+
+bordo2002 - “The rhodanese/Cdc25 phosphatase superfamily”:
+A review about the rhodanese domain and some of its homologous domains. Could be helpful with picking proper templates, though it was hard for me finish sooo I didn’t… Also there’s something fucky about the permissions on this file and I was not able/too-lazy-to-try to make any annotations.
+
+CASP10 - “Definition and Classification of Evaluation Units for CASP10”:
+Explains the CASP10 experiment/target database. Again, I didn’t read everything in this one but of what I read, the info seems like it would be good to know after the fact (i.e. for validation). It did mention that our target, T0651, falls in their weirdo.
+
+dorn2014 - “Three-Dimensional Protein Structure Prediction: Methods and Computational Strategies”:
+This is a big ol’ review on the different prediction methods discussed in class. It goes into a good amount of detail on how these algorithms work, how they differ, pros & cons, etc.. However, a lot this info is covered in lecture/readings. More supplementary if you’re interested.
+
+forrest - “On the Accuracy of Homology Modeling and Sequence Alignment Methods Applied to Membrane Proteins”:
+Outside of question 8, I didn’t find this article very helpful, mostly cause our target isn’t a TM protein. But if you’re interested in the differences in approach to modeling water-soluble vs. TM proteins you’ll probably find it interesting.
+
+HHpred - “The HHpred interactive server for protein homology detection and structure prediction”:
+Basically a short HHpred tutorial. I found it pretty helpful, at least in trying to understand whats going on and which stuff to look at in the output such as the Prob column. Also, talks a little about when to adjust parameters.
+
+munoz2016 - “Limited cooperativity in protein folding”:
+I marked this one red, not because it was that helpful, but because I thought it was pretty interesting. It’s a relatively short review discussing the folding process itself. It talks about how different folding dynamics leads to different end state (native structure or unfolded) distributions, and how proteins that (un)fold really fast are likely “moonlighting” proteins. Yeah, look it up. It’s cool.
