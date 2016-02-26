@@ -1,24 +1,25 @@
-Model 1:
+		molpdf     DOPE score    GA341 score
+Model 1:	1050.96106    -8912.58789        0.92970
 Aligned length=   94, RMSD=   1.98, Seq_ID=n_identical/n_aligned= 0.819
 TM-score= 0.72361 (if normalized by length of Chain_1)
 TM-score= 0.73515 (if normalized by length of Chain_2)
 
-Model 2:
+Model 2:	1035.48242    -8885.22754        0.75138
 Aligned length=   96, RMSD=   2.29, Seq_ID=n_identical/n_aligned= 0.802
 TM-score= 0.72032 (if normalized by length of Chain_1)
 TM-score= 0.73168 (if normalized by length of Chain_2)
 
-Model 3:
+Model 3:	1077.33679    -8729.61523        0.77284
 Aligned length=   94, RMSD=   1.94, Seq_ID=n_identical/n_aligned= 0.819
 TM-score= 0.72579 (if normalized by length of Chain_1)
 TM-score= 0.73738 (if normalized by length of Chain_2)
 
-Model 4:
+Model 4: 	 996.26764    -8956.66699        0.70893
 Aligned length=   96, RMSD=   2.40, Seq_ID=n_identical/n_aligned= 0.865
 TM-score= 0.70775 (if normalized by length of Chain_1)
 TM-score= 0.71873 (if normalized by length of Chain_2)
 
-Model 5:
+Model 5:	1088.93872    -9055.84961        0.77964
 Aligned length=   94, RMSD=   1.90, Seq_ID=n_identical/n_aligned= 0.819
 TM-score= 0.71893 (if normalized by length of Chain_1)
 TM-score= 0.73027 (if normalized by length of Chain_2)

@@ -1,31 +1,31 @@
-These are the same models as the base models in the d2_res_ini_loop_model_scores.txt file
-
-Initial Model: d2_emboss.B99990001
+					molpdf     DOPE score    GA341 score	
+Initial Model: d2_emboss.B99990001 	702.48145    -9548.81641        0.78749
 Aligned length=   95, RMSD=   1.90, Seq_ID=n_identical/n_aligned= 0.758
 TM-score= 0.72778 (if normalized by length of Chain_1)
 TM-score= 0.73929 (if normalized by length of Chain_2)
 
-Model 1:
+		molpdf     DOPE score    GA341 score
+Model 1:	818.43274    -8913.77051        0.61849
 Aligned length=   94, RMSD=   1.83, Seq_ID=n_identical/n_aligned= 0.755
 TM-score= 0.72140 (if normalized by length of Chain_1)
 TM-score= 0.73276 (if normalized by length of Chain_2)
 
-Model 2:
+Model 2:	822.30188    -9073.33594        0.56978
 Aligned length=   94, RMSD=   1.78, Seq_ID=n_identical/n_aligned= 0.766
 TM-score= 0.73040 (if normalized by length of Chain_1)
 TM-score= 0.74206 (if normalized by length of Chain_2)
 
-Model 3:
+Model 3:	830.35754    -9162.40234        0.51491
 Aligned length=   95, RMSD=   1.89, Seq_ID=n_identical/n_aligned= 0.768
 TM-score= 0.72792 (if normalized by length of Chain_1)
 TM-score= 0.73944 (if normalized by length of Chain_2)
 
-Model 4:
+Model 4:	902.49249    -9056.66699        0.51164
 Aligned length=   94, RMSD=   1.78, Seq_ID=n_identical/n_aligned= 0.766
 TM-score= 0.72613 (if normalized by length of Chain_1)
 TM-score= 0.73764 (if normalized by length of Chain_2)
 
-Model 5:
+Model 5:	785.35498    -9248.30273        0.46966
 Aligned length=   94, RMSD=   1.81, Seq_ID=n_identical/n_aligned= 0.766
 TM-score= 0.72885 (if normalized by length of Chain_1)
 TM-score= 0.74048 (if normalized by length of Chain_2)
