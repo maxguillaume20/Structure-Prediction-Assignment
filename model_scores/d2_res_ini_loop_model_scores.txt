@@ -1,0 +1,104 @@
+Initial Model: D2/Restraints/d2_emboss.B99990001
+Aligned length=   95, RMSD=   1.90, Seq_ID=n_identical/n_aligned= 0.758
+TM-score= 0.72778 (if normalized by length of Chain_1)
+TM-score= 0.73929 (if normalized by length of Chain_2)
+
+Base Model 1: 
+Aligned length=   94, RMSD=   1.83, Seq_ID=n_identical/n_aligned= 0.755
+TM-score= 0.72140 (if normalized by length of Chain_1)
+TM-score= 0.73276 (if normalized by length of Chain_2)
+
+Model 1_1:
+Aligned length=   97, RMSD=   2.56, Seq_ID=n_identical/n_aligned= 0.887
+TM-score= 0.70359 (if normalized by length of Chain_1)
+TM-score= 0.71444 (if normalized by length of Chain_2)
+
+Model 1_2:
+Aligned length=   92, RMSD=   1.90, Seq_ID=n_identical/n_aligned= 0.783
+TM-score= 0.70973 (if normalized by length of Chain_1)
+TM-score= 0.72104 (if normalized by length of Chain_2)
+
+Model 1_3:
+Aligned length=   95, RMSD=   2.16, Seq_ID=n_identical/n_aligned= 0.853
+TM-score= 0.71637 (if normalized by length of Chain_1)
+TM-score= 0.72765 (if normalized by length of Chain_2)
+
+Model 1_4:
+Aligned length=   96, RMSD=   1.93, Seq_ID=n_identical/n_aligned= 0.823
+TM-score= 0.73620 (if normalized by length of Chain_1)
+TM-score= 0.74785 (if normalized by length of Chain_2)
+
+Model 1_5:
+Aligned length=   93, RMSD=   2.17, Seq_ID=n_identical/n_aligned= 0.796
+TM-score= 0.69781 (if normalized by length of Chain_1)
+TM-score= 0.70876 (if normalized by length of Chain_2)
+
+Base Model 2:
+Aligned length=   94, RMSD=   1.78, Seq_ID=n_identical/n_aligned= 0.766
+TM-score= 0.73040 (if normalized by length of Chain_1)
+TM-score= 0.74206 (if normalized by length of Chain_2)
+
+Model 2_1:
+Aligned length=   95, RMSD=   2.35, Seq_ID=n_identical/n_aligned= 0.779
+TM-score= 0.71284 (if normalized by length of Chain_1)
+TM-score= 0.72410 (if normalized by length of Chain_2)
+
+Model 2_2:
+Aligned length=   94, RMSD=   2.18, Seq_ID=n_identical/n_aligned= 0.872
+TM-score= 0.70963 (if normalized by length of Chain_1)
+TM-score= 0.72080 (if normalized by length of Chain_2)
+
+Model 2_3:
+Aligned length=   94, RMSD=   2.39, Seq_ID=n_identical/n_aligned= 0.830
+TM-score= 0.70102 (if normalized by length of Chain_1)
+TM-score= 0.71203 (if normalized by length of Chain_2)
+
+Model 2_4:
+Aligned length=   94, RMSD=   2.25, Seq_ID=n_identical/n_aligned= 0.787
+TM-score= 0.70848 (if normalized by length of Chain_1)
+TM-score= 0.71964 (if normalized by length of Chain_2)
+
+Model 2_5:
+Aligned length=   94, RMSD=   2.09, Seq_ID=n_identical/n_aligned= 0.798
+TM-score= 0.71887 (if normalized by length of Chain_1)
+TM-score= 0.73034 (if normalized by length of Chain_2)
+
+Base Model 3:
+Aligned length=   95, RMSD=   1.89, Seq_ID=n_identical/n_aligned= 0.768
+TM-score= 0.72792 (if normalized by length of Chain_1)
+TM-score= 0.73944 (if normalized by length of Chain_2)
+
+Model 3_1:
+Aligned length=   95, RMSD=   2.17, Seq_ID=n_identical/n_aligned= 0.789
+TM-score= 0.70527 (if normalized by length of Chain_1)
+TM-score= 0.71616 (if normalized by length of Chain_2)
+
+Model 3_2:
+Aligned length=   93, RMSD=   2.19, Seq_ID=n_identical/n_aligned= 0.806
+TM-score= 0.70044 (if normalized by length of Chain_1)
+TM-score= 0.71144 (if normalized by length of Chain_2)
+
+Model 3_3:
+Aligned length=   94, RMSD=   2.15, Seq_ID=n_identical/n_aligned= 0.798
+TM-score= 0.70854 (if normalized by length of Chain_1)
+TM-score= 0.71968 (if normalized by length of Chain_2)
+
+Model 3_4:
+Aligned length=   94, RMSD=   2.18, Seq_ID=n_identical/n_aligned= 0.809
+TM-score= 0.70369 (if normalized by length of Chain_1)
+TM-score= 0.71470 (if normalized by length of Chain_2)
+
+Model 3_5:
+Aligned length=   96, RMSD=   2.34, Seq_ID=n_identical/n_aligned= 0.802
+TM-score= 0.71747 (if normalized by length of Chain_1)
+TM-score= 0.72878 (if normalized by length of Chain_2)
+
+Base Model 4:
+Aligned length=   94, RMSD=   1.78, Seq_ID=n_identical/n_aligned= 0.766
+TM-score= 0.72613 (if normalized by length of Chain_1)
+TM-score= 0.73764 (if normalized by length of Chain_2)
+
+Base Model 5:
+Aligned length=   94, RMSD=   1.81, Seq_ID=n_identical/n_aligned= 0.766
+TM-score= 0.72885 (if normalized by length of Chain_1)
+TM-score= 0.74048 (if normalized by length of Chain_2)

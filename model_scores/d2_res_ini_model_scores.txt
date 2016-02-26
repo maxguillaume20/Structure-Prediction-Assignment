@@ -1,0 +1,32 @@
+Initial Model: d2_emboss.B99990001
+Aligned length=   95, RMSD=   1.90, Seq_ID=n_identical/n_aligned= 0.758
+TM-score= 0.72778 (if normalized by length of Chain_1)
+TM-score= 0.73929 (if normalized by length of Chain_2)
+
+Model 1:
+Aligned length=   98, RMSD=   2.35, Seq_ID=n_identical/n_aligned= 0.755
+TM-score= 0.73407 (if normalized by length of Chain_1)
+TM-score= 0.74568 (if normalized by length of Chain_2)
+(You should use TM-score normalized by length of the reference protein)
+
+Model 2:
+Aligned length=   96, RMSD=   1.92, Seq_ID=n_identical/n_aligned= 0.760
+TM-score= 0.73441 (if normalized by length of Chain_1)
+TM-score= 0.74602 (if normalized by length of Chain_2)
+(You should use TM-score normalized by length of the reference protein)
+
+Model 3:
+Aligned length=   97, RMSD=   2.03, Seq_ID=n_identical/n_aligned= 0.794
+TM-score= 0.73339 (if normalized by length of Chain_1)
+TM-score= 0.74489 (if normalized by length of Chain_2)
+(You should use TM-score normalized by length of the reference protein)
+
+Model 4:
+Aligned length=   96, RMSD=   2.17, Seq_ID=n_identical/n_aligned= 0.802
+TM-score= 0.72340 (if normalized by length of Chain_1)
+TM-score= 0.73476 (if normalized by length of Chain_2)
+
+Model 5:
+Aligned length=   93, RMSD=   1.77, Seq_ID=n_identical/n_aligned= 0.785
+TM-score= 0.72023 (if normalized by length of Chain_1)
+TM-score= 0.73166 (if normalized by length of Chain_2)

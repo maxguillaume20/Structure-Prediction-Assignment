@@ -1,0 +1,31 @@
+These are the same models as the base models in the d2_res_ini_loop_model_scores.txt file
+
+Initial Model: d2_emboss.B99990001
+Aligned length=   95, RMSD=   1.90, Seq_ID=n_identical/n_aligned= 0.758
+TM-score= 0.72778 (if normalized by length of Chain_1)
+TM-score= 0.73929 (if normalized by length of Chain_2)
+
+Model 1:
+Aligned length=   94, RMSD=   1.83, Seq_ID=n_identical/n_aligned= 0.755
+TM-score= 0.72140 (if normalized by length of Chain_1)
+TM-score= 0.73276 (if normalized by length of Chain_2)
+
+Model 2:
+Aligned length=   94, RMSD=   1.78, Seq_ID=n_identical/n_aligned= 0.766
+TM-score= 0.73040 (if normalized by length of Chain_1)
+TM-score= 0.74206 (if normalized by length of Chain_2)
+
+Model 3:
+Aligned length=   95, RMSD=   1.89, Seq_ID=n_identical/n_aligned= 0.768
+TM-score= 0.72792 (if normalized by length of Chain_1)
+TM-score= 0.73944 (if normalized by length of Chain_2)
+
+Model 4:
+Aligned length=   94, RMSD=   1.78, Seq_ID=n_identical/n_aligned= 0.766
+TM-score= 0.72613 (if normalized by length of Chain_1)
+TM-score= 0.73764 (if normalized by length of Chain_2)
+
+Model 5:
+Aligned length=   94, RMSD=   1.81, Seq_ID=n_identical/n_aligned= 0.766
+TM-score= 0.72885 (if normalized by length of Chain_1)
+TM-score= 0.74048 (if normalized by length of Chain_2)
