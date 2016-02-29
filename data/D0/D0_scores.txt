@@ -1,0 +1,31 @@
+		
+Model 1:
+#CA            N1   N2   DIST      N    RMSD    GDT_TS    LGA_S3     LGA_Q 
+SUMMARY(GDT)  254  254    5.0    100    2.61    31.201    27.232     3.696
+molpdf     DOPE score    GA341 score
+1393.78906   -19119.75391        0.93931
+
+Model 2:
+#CA            N1   N2   DIST      N    RMSD    GDT_TS    LGA_S3     LGA_Q 
+SUMMARY(GDT)  254  254    5.0     98    2.51    31.102    27.367     3.749
+molpdf     DOPE score    GA341 score
+1337.55054   -19153.16016        0.95532
+
+Model 3:
+#CA            N1   N2   DIST      N    RMSD    GDT_TS    LGA_S3     LGA_Q 
+SUMMARY(GDT)  254  254    5.0     99    2.51    30.512    27.321     3.796
+molpdf     DOPE score    GA341 score
+1376.67944   -18901.30273        0.97809
+
+Model 4:
+#CA            N1   N2   DIST      N    RMSD    GDT_TS    LGA_S3     LGA_Q 
+SUMMARY(GDT)  254  254    5.0     98    2.55    29.921    26.753     3.702
+molpdf     DOPE score    GA341 score
+1400.35962   -18212.77344        0.98866
+
+Model 5:
+#CA            N1   N2   DIST      N    RMSD    GDT_TS    LGA_S3     LGA_Q 
+SUMMARY(GDT)  254  254    5.0     97    2.38    30.709    27.373     3.911
+molpdf     DOPE score    GA341 score
+1270.81311   -18901.34180        0.98977
+
